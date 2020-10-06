@@ -2,6 +2,7 @@
 
 - [Héctor Marquez](https://github.com/Cookieracho)
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [César Leos](https://github.com/Kovacz)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
